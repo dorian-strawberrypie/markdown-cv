@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dorianův CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# J. Dorian Charbulák
+:student: Bc. student FIT ČVUT - Manažerská informatika
+:star: Ročník 2001
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,81 +12,52 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Momentálně 
 
-Standing on the shoulders of giants
+Ve 2. ročníku Bc. studia, po nedotáhnutém pokusu o start-up
 
-### Specialized in
+### Studijní zájmy
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji na AI a ekonomiku
 
 
-### Research interests
+### Ostatní zájmy
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Technologie a jejich nové využití, socializace 🎮/☕/💃, ekologie
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007 - 2012`
+__Základní škola Kunčice pod Ondřejníkem__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012 - 2016`
+__Gymnázium a SPŠEI Frenštát p. RAdhoštěm__
 
-- Sizar
+`2016 - 2020`
+__SŠINFOTECH, Frýdek-Místek__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2020 - nyní`
+__České vysoké učení technické v Praze, fakulta Informačních technologií__
 
 
 
-## Publications
+## Bydliště
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`1.`
+__Kunčice pod Ondřejníkem__, okres Frýdek-Místek
 
-### Journals
+- rodné bydliště
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2.`
+__Lhotka__, Praha 4
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- bydlení při studiu/práci
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 22 -->
 
 
