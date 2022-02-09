@@ -3,10 +3,7 @@ layout: cv
 title: Dorianův CV
 ---
 # J. Dorian Charbulák
-Bc. student FIT ČVUT - Manažerská informatika
-
-
-Ročník 2001
+Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
 
 <div id="webaddress">
 <a href="https://twitter.com/charbulakdorian">Twitter</a>
