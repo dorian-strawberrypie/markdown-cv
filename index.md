@@ -3,8 +3,10 @@ layout: cv
 title: Dorianův CV
 ---
 # J. Dorian Charbulák
-:student: Bc. student FIT ČVUT - Manažerská informatika
-:star: Ročník 2001
+Bc. student FIT ČVUT - Manažerská informatika
+
+
+Ročník 2001
 
 <div id="webaddress">
 <a href="https://twitter.com/charbulakdorian">Twitter</a>
@@ -26,13 +28,13 @@ Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji
 Technologie a jejich nové využití, socializace 🎮/☕/💃, ekologie
 
 
-## Education
+## Vzdělání
 
 `2007 - 2012`
 __Základní škola Kunčice pod Ondřejníkem__
 
 `2012 - 2016`
-__Gymnázium a SPŠEI Frenštát p. RAdhoštěm__
+__Gymnázium a SPŠEI Frenštát p. Radhoštěm__
 
 `2016 - 2020`
 __SŠINFOTECH, Frýdek-Místek__
@@ -44,7 +46,7 @@ __České vysoké učení technické v Praze, fakulta Informačních technologi�
 ### Odborná praxe
 
 `2018, 2019`
-__STAPRO, s. r. o.___
+__STAPRO, s. r. o.__
 
 -dohromady 1,5 měsíce odborné praxe ze střední školy
 
