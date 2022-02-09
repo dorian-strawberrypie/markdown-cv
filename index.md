@@ -7,8 +7,8 @@ title: Dorianův CV
 :star: Ročník 2001
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://twitter.com/charbulakdorian">Twitter</a>
+| <a href="https://www.facebook.com/jakub.charbulak">Messenger</a>
 </div>
 
 
@@ -40,6 +40,25 @@ __SŠINFOTECH, Frýdek-Místek__
 `2020 - nyní`
 __České vysoké učení technické v Praze, fakulta Informačních technologií__
 
+
+### Odborná praxe
+
+`2018, 2019`
+__STAPRO, s. r. o.___
+
+-dohromady 1,5 měsíce odborné praxe ze střední školy
+
+-ostravská pobočka korporátu, dodávající lékařský SW
+
+-práce na systému v C#/xaml, převážně oprava bugů a analýza UX
+
+### Jazyky
+
+Čeština - Mateřský jazyk, min. na úrovni maturity z ČJ
+
+Anglický jazyk - plynulá domluva s rodnými mluvčími z UK i USA
+
+Německý jazyk - spíše pasivně, pracuji na tom 😄
 
 
 ## Bydliště
