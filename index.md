@@ -13,7 +13,7 @@ Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
 
 ## Momentálně 
 
-Ve 2. ročníku Bc. studia, po pokusu o team startup, ukončeném bez produktu
+Ve 2. ročníku Bc. studia oboru IT Management, po pokusu o team startup, ukončeném bez produktu
 
 
 ## Vzdělání
@@ -37,7 +37,7 @@ Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji
 
 ### Ostatní zájmy
 
-Technologie a jejich nové využití, socializace 🎮/☕/💃, ekologie
+Technologie a jejich nové využití, Ekologie, Socializace 🎮/☕/💃
 
 ### Odborná praxe
 
@@ -92,6 +92,6 @@ __Lhotka__, Praha 4
 
 <!-- ### Footer
 
-Last updated: Feb 22 -->
+Last updated: Feb 11 -->
 
 
