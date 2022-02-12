@@ -58,6 +58,8 @@ __STAPRO, s. r. o.__
 
 -Python `asi 40h praxe`
 
+-PostgreSQL `asi 30h praxe`
+
 -C++ `< 30h praxe`
 
 -Krátká praxe s HTML/CSS, XAML, git
