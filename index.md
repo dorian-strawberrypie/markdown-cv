@@ -12,6 +12,10 @@ Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
 </div>
 
 
+## Motivační video
+
+<a href="https://photos.app.goo.gl/N4Q3AoRL2M1fLefN7">Odkaz na video</a>
+
 ## Rešerše a témata do Linky
 
 __Generace alfa__
