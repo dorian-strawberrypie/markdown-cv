@@ -24,9 +24,9 @@ __Generace alfa__
 
 __Sebevědomí__
 
--tipy Terez a Kovyho na zvýšení sebevědomí, a co na to experti?
+-tipy Terez a Kovyho na zvýšení sebevědomí
 
--čím bude specifická, co od ní čekat?
+-co na to věda?
 
 -<a href="https://docs.google.com/document/d/1ijMzhB-Xf8-E0dYgRKSyXr0vet57J9jrOOD9CPole2I/edit?usp=sharing">REŠERŠE ZDE</a>
 
