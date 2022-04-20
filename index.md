@@ -8,18 +8,45 @@ Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
 <div id="webaddress">
 <a href="https://twitter.com/charbulakdorian">Twitter</a>
 | <a href="https://www.facebook.com/jakub.charbulak">Messenger</a>
+| charbjak@fit.cvut.cz
 </div>
+
+
+### Rešerše a témata do Linky
+
+__Generace alfa__
+
+-generace po Z pomalu vstupuje do puberty
+
+-čím bude specifická, co od ní čekat?
+
+-<a href="https://docs.google.com/document/d/1-JE4-gzSSaGmMyMpwoLQlpHlbmYLR5qVdDer49cvPNE/edit?usp=sharing">REŠERŠE ZDE</a>
+
+__Sebevědomí__
+
+-tipy Terez a Kovyho na zvýšení sebevědomí, a co na to experti?
+
+-čím bude specifická, co od ní čekat?
+
+-<a href="https://docs.google.com/document/d/1ijMzhB-Xf8-E0dYgRKSyXr0vet57J9jrOOD9CPole2I/edit?usp=sharing">REŠERŠE ZDE</a>
+
+__Top X vychytávek, které si neuvědomujeme__
+
+-Jaké vynálezy a vychytávky nás denně zachraňují a my o nich často nevíme?
+
+-Čím to, když se utrhne výtah, nikdy nepadá k zemi? Proč je tvůj telefon magnetický? A proč přežiješ v autě zásah blesku?
+
+__Školství a výchova feat. feedback českých školáků__
+
+__Revoluční startupy z Česka__
 
 
 ## Momentálně 
 
-Ve 2. ročníku Bc. studia oboru IT Management, po pokusu o team startup, ukončeném bez produktu
+Ve 2. ročníku Bc. studia oboru IT Management, podruhé zkoušíme s klukama startup a chci být členem LinkaTýmu:)
 
 
 ## Vzdělání
-
-`2007 - 2012`
-__Základní škola Kunčice pod Ondřejníkem__
 
 `2012 - 2016`
 __Gymnázium a SPŠEI Frenštát p. Radhoštěm__
@@ -32,7 +59,7 @@ __České vysoké učení technické v Praze, fakulta Informačních technologi�
 
 ### Studijní zájmy
 
-Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji na AI a ekonomiku
+Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji na AI a ekonomiku. Jsem členem nového podnikatelského meziuniverzitního studentského klubu SpoluPRACUJEME.
 
 
 ### Ostatní zájmy
@@ -46,31 +73,17 @@ __STAPRO, s. r. o.__
 
 -dohromady 1,5 měsíce odborné praxe ze střední školy
 
--ostravská pobočka korporátu, dodávající lékařský SW
-
--práce na systému v C#/xaml, převážně oprava bugů a analýza UX
+-ostravská pobočka korporátu, dodávající lékařský software
 
 ### Zkušenosti
 
--C `asi 200h praxe`
+-různé programovací jazyky `500h+ praxe`
 
--C# `asi 300h praxe`
-
--Python `asi 40h praxe`
-
--PostgreSQL `asi 30h praxe`
-
--C++ `< 30h praxe`
-
--Krátká praxe s HTML/CSS, XAML, git
-
--Práce s klientem: zprovoznění rezervačního systému, eshopu, webové prezentace
+-Práce s klientem: zprovoznění rezervačního systému, eshopu, webu
 
 -[Startup](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup), [Manažerský předmět](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_bussinessanalysis-subject)
 
 ### Jazyky
-
-Čeština - Mateřský jazyk, min. na úrovni maturity z ČJ
 
 Anglický jazyk - plynulá domluva s rodnými mluvčími z UK i USA
 
