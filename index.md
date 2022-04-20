@@ -12,7 +12,7 @@ Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
 </div>
 
 
-### Rešerše a témata do Linky
+## Rešerše a témata do Linky
 
 __Generace alfa__
 
@@ -41,7 +41,7 @@ __Školství a výchova feat. feedback českých školáků__
 __Revoluční startupy z Česka__
 
 
-## Momentálně 
+## Já momentálně 
 
 Ve 2. ročníku Bc. studia oboru IT Management, podruhé zkoušíme s klukama startup a chci být členem LinkaTýmu:)
 
