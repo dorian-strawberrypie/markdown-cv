@@ -26,13 +26,15 @@ __Generace alfa__
 
 -<a href="https://docs.google.com/document/d/1-JE4-gzSSaGmMyMpwoLQlpHlbmYLR5qVdDer49cvPNE/edit?usp=sharing">REŠERŠE ZDE</a>
 
+__Revoluční startupy z Česka__
+
+-<a href="https://docs.google.com/document/d/1ijMzhB-Xf8-E0dYgRKSyXr0vet57J9jrOOD9CPole2I/edit?usp=sharing">REŠERŠE ZDE</a>
+
 __Sebevědomí__
 
 -tipy Terez a Kovyho na zvýšení sebevědomí
 
 -co na to věda?
-
--<a href="https://docs.google.com/document/d/1ijMzhB-Xf8-E0dYgRKSyXr0vet57J9jrOOD9CPole2I/edit?usp=sharing">REŠERŠE ZDE</a>
 
 __Top X vychytávek, které si neuvědomujeme__
 
@@ -42,7 +44,6 @@ __Top X vychytávek, které si neuvědomujeme__
 
 __Školství a výchova feat. feedback českých školáků__
 
-__Revoluční startupy z Česka__
 
 
 ## Já momentálně 
