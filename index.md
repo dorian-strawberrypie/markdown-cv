@@ -51,19 +51,23 @@ __STAPRO, s. r. o.__
 
 -C `asi 200h praxe`
 
+-C++ `asi 100h praxe`
+
 -C# `asi 300h praxe`
 
 -Python `asi 40h praxe`
 
 -PostgreSQL `asi 30h praxe`
 
--C++ `< 30h praxe`
-
 -Krátká praxe s HTML/CSS, XAML, git
 
 -Práce s klientem: zprovoznění rezervačního systému, eshopu, webové prezentace
 
--[Startup](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup), [Manažerský předmět](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_bussinessanalysis-subject)
+-Práce na [startupu](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup)
+
+-[Manažerský předmět](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_bussinessanalysis-subject)
+
+-[SW inženýrství](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2022_softwareengineering-subject)
 
 ### Jazyky
 
