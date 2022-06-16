@@ -51,7 +51,7 @@ __STAPRO, s. r. o.__
 
 -C `asi 200h praxe`
 
--C++ `asi 100h praxe`
+-C++ `asi 200h praxe`
 
 -C# `asi 300h praxe`
 
@@ -67,7 +67,7 @@ __STAPRO, s. r. o.__
 
 -[Manažerský předmět](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_bussinessanalysis-subject)
 
--[SW inženýrství](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2022_softwareengineering-subject)
+-[SW inženýrství](https://gitlab.fit.cvut.cz/flajzjan/si-multiklubka)
 
 ### Jazyky
 
