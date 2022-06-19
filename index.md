@@ -67,7 +67,7 @@ __STAPRO, s. r. o.__
 
 -[Manažerský předmět](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_bussinessanalysis-subject)
 
--[SW inženýrství](https://gitlab.fit.cvut.cz/flajzjan/si-multiklubka)
+-[odkaz na git s mými projekty](https://github.com/dorian-strawberrypie/cv-monorepo)
 
 ### Jazyky
 
