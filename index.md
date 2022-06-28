@@ -13,7 +13,7 @@ Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
 
 ## Momentálně 
 
-Ve 2. ročníku Bc. studia oboru IT Management, po pokusu o team startup, ukončeném bez produktu
+Ve 3. ročníku Bc. studia oboru IT Management
 
 
 ## Vzdělání
@@ -27,14 +27,6 @@ __SŠINFOTECH, Frýdek-Místek__
 `2020 - nyní`
 __České vysoké učení technické v Praze, fakulta Informačních technologií__
 
-### Studijní zájmy
-
-Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji na AI a ekonomiku
-
-
-### Ostatní zájmy
-
-Technologie a jejich nové využití, Ekologie, Socializace 🎮/☕/💃
 
 ### Odborná praxe
 
@@ -63,7 +55,8 @@ __STAPRO, s. r. o.__
 
 -Práce s klientem: zprovoznění rezervačního systému, eshopu, webové prezentace
 
--Práce na [startupu](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup)
+-Práce na <a href="https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup">startuPu</a>
+<!-- -Práce na [startupu](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup) -->
 
 -[Manažerský předmět](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_bussinessanalysis-subject)
 
@@ -73,7 +66,7 @@ __STAPRO, s. r. o.__
 
 Anglický jazyk - plynulá domluva s rodnými mluvčími z UK i USA
 
-Německý jazyk - spíše pasivně, pracuji na tom
+Německý jazyk - pasivně, pracuji na tom
 
 
 
@@ -90,8 +83,16 @@ __Lhotka__, Praha 4
 - bydlení při studiu/práci
 
 
+### Studijní zájmy
+
+Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji na AI, ekonomiku a management
+
+
+### Ostatní zájmy
+
+Technologie a jejich nové využití, Ekologie, Socializace 🎮/☕/💃
+
 
 <!-- ### Footer
 
-Last updated: Feb 11 -->
-
+Last updated: Jun 28 -->
