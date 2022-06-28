@@ -55,10 +55,7 @@ __STAPRO, s. r. o.__
 
 -Práce s klientem: zprovoznění rezervačního systému, eshopu, webové prezentace
 
--Práce na <a href="https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup">startuPu</a>
-<!-- -Práce na [startupu](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup) -->
-
--[Manažerský předmět](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_bussinessanalysis-subject)
+-Práce na [startupu](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup)
 
 -[odkaz na git s mými projekty](https://github.com/dorian-strawberrypie/cv-monorepo)
 
