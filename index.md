@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Dorianův CV
+title: Dorian's CV
 ---
 # J. Dorian Charbulák
-Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
+Student of the Faculty for Information Technology in Czech Technical University in Prague, born 2001
 
 <div id="webaddress">
 <a href="https://twitter.com/charbulakdorian">Twitter</a>
@@ -11,12 +11,12 @@ Bc. student FIT ČVUT - Manažerská informatika, ročník 2001
 </div>
 
 
-## Momentálně 
+## At the moment 
 
-Ve 3. ročníku Bc. studia oboru IT Management
+In the 3rd year of bachelor's IT Management programme
 
 
-## Vzdělání
+## Education
 
 `2012 - 2016`
 __Gymnázium a SPŠEI Frenštát p. Radhoštěm__
@@ -24,72 +24,74 @@ __Gymnázium a SPŠEI Frenštát p. Radhoštěm__
 `2016 - 2020`
 __SŠINFOTECH, Frýdek-Místek__
 
-`2020 - nyní`
-__České vysoké učení technické v Praze, fakulta Informačních technologií__
+`2020 - now`
+__Czech Technical University in Prague, faculty of IT__
 
 
-### Odborná praxe
+### Proffessional experience
 
 `2018, 2019`
 __STAPRO, s. r. o.__
 
--dohromady 1,5 měsíce odborné praxe ze střední školy
+-month 1,5 high school internship in IT department
 
--ostravská pobočka korporátu, dodávající lékařský SW
+-Ostrava branch office of a hospital SW development corp
 
--práce na systému v C#/xaml, převážně oprava bugů a analýza UX
+-I worked on the hospital system FONS in C#/xaml, mainly fixed bugs or helped with UX analysis for a new version
 
-### Zkušenosti
+### Skills
 
--C `asi 200h praxe`
+-C `spent ~200h`
 
--C++ `asi 200h praxe`
+-C++ `spent ~200h`
 
--C# `asi 300h praxe`
+-C# `spent ~300h`
 
--Python `asi 40h praxe`
+-Python `spent ~40h`
 
--PostgreSQL `asi 30h praxe`
+-PostgreSQL `spent ~20h`
 
--Krátká praxe s HTML/CSS, XAML, git
+-HTML/CSS, XAML, git
 
--Práce s klientem: zprovoznění rezervačního systému, eshopu, webové prezentace
+-Work for a client: reservation system configuration, e-shop, web presentation
 
--Práce na [startupu](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup)
+-Work on a [startup](https://github.com/dorian-strawberrypie/cv-monorepo/tree/main/2021_otevrenyokno-groupstartup)
 
--[odkaz na git s mými projekty](https://github.com/dorian-strawberrypie/cv-monorepo)
+-[GIT with my projects](https://github.com/dorian-strawberrypie/cv-monorepo)
 
-### Jazyky
+### Languages
 
-Anglický jazyk - plynulá domluva s rodnými mluvčími z UK i USA
+Czech - native language
 
-Německý jazyk - pasivně, pracuji na tom
+English - fluently
+
+German - passively, I'm learning it
 
 
 
-## Bydliště
+## Place of residence
 
 `1.`
-__Kunčice pod Ondřejníkem__, okres Frýdek-Místek
+__Kunčice pod Ondřejníkem__, Frýdek-Místek district
 
-- rodné bydliště
+- family residence
 
 `2.`
 __Lhotka__, Praha 4
 
-- bydlení při studiu/práci
+- housing while studying/working
 
 
-### Studijní zájmy
+### Study interests
 
-Mimo školu se učím německy a v rámci volitelných předmětů se zaměřuji na AI, ekonomiku a management
+In terms of optional subjects, I take AI and economics. I also learn german.
 
 
-### Ostatní zájmy
+### Other interests
 
-Technologie a jejich nové využití, Ekologie, Socializace 🎮/☕/💃
+New tech, innovation, ecology, socialization 🎮/☕/💃
 
 
 <!-- ### Footer
 
-Last updated: Jun 28 -->
+Last updated: Jul 02 -->
