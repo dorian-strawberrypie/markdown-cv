@@ -33,9 +33,9 @@ __Czech Technical University in Prague, faculty of IT__
 `2018, 2019`
 __STAPRO, s. r. o.__
 
--month 1,5 high school internship in IT department
+-month and a half long high school internship in IT department
 
--Ostrava branch office of a hospital SW development corp
+-in Ostrava branch office of a hospital SW development corp
 
 -I worked on the hospital system FONS in C#/xaml, mainly fixed bugs or helped with UX analysis for a new version
 
